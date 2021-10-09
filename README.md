@@ -7,4 +7,4 @@ Identifying Influencers in Twitter Data
 
 Approach:
 
-Scraping Data from Twitter and identifying Top 25 Influencers in the dataset 
+Scraping Data from Twitter and identifying Top 25 Influencers in the dataset using Text Mining
